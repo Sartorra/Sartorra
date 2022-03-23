@@ -1,5 +1,5 @@
 ### Hi there 👋
-The majority of my contributions are on public repositories!
+The majority of my contributions are on private repositories!
 
 ![GitHub Stats for Sticks](https://github-readme-stats.vercel.app/api?username=Styxies&show_icons=true)
 <!--
